@@ -1,4 +1,4 @@
-#build and test
+# build and test
 
     wget https://fluid.colorado.edu/~kjansen/PHASTA/phastaChefTests.tar.gz
     tar xzf phastaChefTests.tar.gz # use for CASES path below
